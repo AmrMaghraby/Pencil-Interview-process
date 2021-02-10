@@ -75,6 +75,7 @@ Sixth tested it on both hosted link and local on chrome and both worked well.
 ## Prove that Frontend development works well
 
 I have recorded this video while testing frontend task:
+![caption](https://imgur.com/a/jrqZKT6)
 
 
 ## Installation Process
