@@ -25,7 +25,7 @@ Requirement 6: Upload your code into GitHub and share it along with your submiss
 
 First I wrote nodejs script to read and parse Questions sheet and anther script for Topics sheet (Attached in Backend dirctory project called read-store-Topics and read-store-questions).
 
-Second created account on MongoDB Atlas and connect nodejs scripts to database instance on MongoDB Atlas. The link for my instance could be found [here](mongodb+srv://dbUser:dbUser@cluster0.7zkhe.mongodb.net/mydb?retryWrites=true&w=majority).
+Second created account on MongoDB Atlas and connect nodejs scripts to database instance on MongoDB Atlas. The link for my instance could be found here mongodb+srv://dbUser:dbUser@cluster0.7zkhe.mongodb.net/mydb?retryWrites=true&w=majority.
 
 Third I created express and nodejs server which exposes RESTful API to query and return questions that match the query.
 
@@ -68,7 +68,7 @@ Third integrate what wrotw in the editor with user id sign in by firebase Authen
 
 Fourth integrated latex equations with the editor and being able to render the equation after writting it between two enclosed $$.
 
-Fifth hosted on firebase and link could be found here.
+Fifth hosted on firebase and link could be found [here](https://pencil-78fc9.web.app/sign-in).
 
 Sixth tested it on both hosted link and local on chrome and both worked well.
 
