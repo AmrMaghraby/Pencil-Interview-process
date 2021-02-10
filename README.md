@@ -25,11 +25,12 @@ Requirement 6: Upload your code into GitHub and share it along with your submiss
 
 First I wrote nodejs script to read and parse Questions sheet and anther script for Topics sheet (Attached in Backend dirctory project called read-store-Topics and read-store-questions).
 
-Second created account on MongoDB Atlas and connect nodejs scripts to database instance on MongoDB Atlas. The link for my instance could be found here.
+Second created account on MongoDB Atlas and connect nodejs scripts to database instance on MongoDB Atlas. The link for my instance could be found [here](mongodb+srv://dbUser:dbUser@cluster0.7zkhe.mongodb.net/mydb?retryWrites=true&w=majority).
 
 Third I created express and nodejs server which exposes RESTful API to query and return questions that match the query.
 
-Fourth the created server local deployed on heroku and link could be found here.
+Fourth the created server local deployed on heroku and link could be found [here](https://stark-plains-86789.herokuapp.com/api/v1?q=).
+kindly when you open API link hosted on heroku add your query after 'q='
 
 Fifth tested the deployed APP through postman and chrome both worked well.
 
