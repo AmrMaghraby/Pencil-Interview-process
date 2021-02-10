@@ -75,7 +75,7 @@ Sixth tested it on both hosted link and local on chrome and both worked well.
 ## Prove that Frontend development works well
 
 I have recorded this video while testing frontend task:
-![caption](<blockquote class="imgur-embed-pub" lang="en" data-id="a/jrqZKT6"  ><a href="//imgur.com/a/jrqZKT6">Pencil Interview Frontend Task</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![caption](<blockquote class="imgur-embed-pub" lang="en" data-id="a/jrqZKT6"  ><a href="//imgur.com/a/jrqZKT6">Pencil Interview Frontend Task</a></blockquote>)
 
 
 ## Installation Process
