@@ -75,7 +75,7 @@ Sixth tested it on both hosted link and local on chrome and both worked well.
 ## Prove that Frontend development works well
 
 I have recorded this video while testing frontend task:
-[<blockquote><a href="//imgur.com/a/jrqZKT6">Pencil Interview Frontend Task</a></blockquote> ](https://drive.google.com/file/d/1xrFekG6mVzyxo90k49F_QszA0fAHjqty/view?usp=sharing)
+[<blockquote>Pencil Interview Frontend Task</blockquote> ](https://drive.google.com/file/d/1xrFekG6mVzyxo90k49F_QszA0fAHjqty/view?usp=sharing)
 
 
 ## Installation Process
