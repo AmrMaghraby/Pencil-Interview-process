@@ -23,7 +23,7 @@ Requirement 6: Upload your code into GitHub and share it along with your submiss
 
 ## Development steps
 
-First I wrote nodejs script to read and parse Questions sheet nd anther script for Topics sheet.
+First I wrote nodejs script to read and parse Questions sheet and anther script for Topics sheet (Attached in Backend dirctory project called read-store-Topics and read-store-questions).
 
 Second created account on MongoDB Atlas and connect nodejs scripts to database instance on MongoDB Atlas. The link for my instance could be found here.
 
